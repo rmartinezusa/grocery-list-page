@@ -1,18 +1,14 @@
-
-main {
-    font-family: sans-serif;
-}
-
 .main-header-text {
-    color:#02989e;
+    color:#0c6f3c;
     text-align: center;
 }
 
 .section-header-class {
     background-color: #f6f0e8;
-    width: 48.3vw;
+    width: 48vw;
     border: 1px solid #000;
     margin-left: 10px;
+    padding-left: 5px;
 }
 
 .flex-container {
@@ -21,14 +17,14 @@ main {
 }
 
 .flex-container > .section-class {
-    background-color: #d9d9d9;
+    background-color: #b6c7ac;
     margin: 10px;
     padding: 30px;
     width: 100%;
 }
 
 .flex-container > .section-class-img {
-    background-color: #d9d9d9;
+    background-color: #b6c7ac;
     margin: 10px;
     padding: 30px;
     width: 100%;
